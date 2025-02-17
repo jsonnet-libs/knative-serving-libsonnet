@@ -2,347 +2,270 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/autoscaling/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/autoscaling/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/autoscaling/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/autoscaling/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/autoscaling/v1alpha1/metric/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/autoscaling/v1alpha1/metric/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/autoscaling/v1alpha1/podAutoscaler/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/autoscaling/v1alpha1/podAutoscaler/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/caching/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/caching/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/caching/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/caching/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/caching/v1alpha1/image/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/caching/v1alpha1/image/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/networking/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/networking/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/networking/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/networking/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/networking/v1alpha1/certificate/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/networking/v1alpha1/certificate/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/networking/v1alpha1/clusterDomainClaim/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/networking/v1alpha1/clusterDomainClaim/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/networking/v1alpha1/ingress/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/networking/v1alpha1/ingress/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/networking/v1alpha1/serverlessService/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/networking/v1alpha1/serverlessService/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1/configuration/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1/configuration/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1/revision/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1/revision/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1/route/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1/route/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1/service/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1/service/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1beta1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1alpha1/domainMapping/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.15.0/serving/v1beta1/domainMapping/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1beta1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.11.6/serving/v1beta1/domainMapping/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/autoscaling/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/autoscaling/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/autoscaling/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/autoscaling/v1alpha1/metric/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/autoscaling/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/autoscaling/v1alpha1/podAutoscaler/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/autoscaling/v1alpha1/metric/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/caching/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/autoscaling/v1alpha1/podAutoscaler/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/caching/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/caching/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/caching/v1alpha1/image/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/caching/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/networking/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/caching/v1alpha1/image/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/networking/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/networking/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/networking/v1alpha1/certificate/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/networking/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/networking/v1alpha1/clusterDomainClaim/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/networking/v1alpha1/certificate/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/networking/v1alpha1/ingress/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/networking/v1alpha1/clusterDomainClaim/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/networking/v1alpha1/serverlessService/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/networking/v1alpha1/ingress/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/networking/v1alpha1/serverlessService/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1/configuration/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1/revision/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1/configuration/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1/route/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1/revision/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1/service/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1/route/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1beta1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1/service/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.16.0/serving/v1beta1/domainMapping/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1beta1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.12.3/serving/v1beta1/domainMapping/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/autoscaling/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/autoscaling/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/autoscaling/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/autoscaling/v1alpha1/metric/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/autoscaling/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/autoscaling/v1alpha1/podAutoscaler/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/autoscaling/v1alpha1/metric/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/caching/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/autoscaling/v1alpha1/podAutoscaler/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/caching/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/caching/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/caching/v1alpha1/image/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/caching/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/networking/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/caching/v1alpha1/image/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/networking/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/networking/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/networking/v1alpha1/certificate/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/networking/v1alpha1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/networking/v1alpha1/clusterDomainClaim/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/networking/v1alpha1/certificate/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/networking/v1alpha1/ingress/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/networking/v1alpha1/clusterDomainClaim/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/networking/v1alpha1/serverlessService/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/networking/v1alpha1/ingress/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/networking/v1alpha1/serverlessService/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1/configuration/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1/revision/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1/configuration/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1/route/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1/revision/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1/service/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1/route/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1beta1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1/service/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1beta1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.13.1/serving/v1beta1/domainMapping/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-serving-libsonnet/1.17.0/serving/v1beta1/domainMapping/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
 </urlset>
